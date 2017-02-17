@@ -1,3 +1,7 @@
-# Windows-Session-Unlocker
+# Session Unlocker for Miscrosoft Windows
 
-Project will allows to prevent your OS to be locked.
+- The project has been developed usign **Visual Studio 2008**
+- This tool will allows to prevent the Operative System to be **locked**.
+- It could be **minimized** into the task bar so it can be accessed more easily to turn on/off.
+- It works only on Microsoft Windows Platforms.
+
