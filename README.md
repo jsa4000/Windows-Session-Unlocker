@@ -1,2 +1,3 @@
 # Windows-Session-Unlocker
-Project will allows to prevent you OS to be locked.
+
+Project will allows to prevent your OS to be locked.
